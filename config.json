@@ -1,0 +1,8 @@
+{
+    "personal_token": "make a new token here https://github.com/settings/tokens and check Full control of private repositories",
+    "owner": "your username",
+    "repo": "repo to commit to",
+    "commit_message": "commit_message",
+    "file_content": "file_content",
+    "interval": 1000
+}
