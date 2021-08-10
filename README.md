@@ -12,6 +12,7 @@ A simple GitHub commit bot
 - Make a personal token here: https://github.com/settings/tokens
   - Check this: ![repo](https://hypixel.support/CI_hZQ.png)
 - Paste it into [config.json](config.json)
+- Setup [config.json](config.json) to how you want it
 - Save and run `node .` or `node index.js`
 
 # Any issues?
