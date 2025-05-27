@@ -10,6 +10,6 @@
   "author": "spinfal",
   "license": "ISC",
   "dependencies": {
-    "@octokit/rest": "^18.9.0"
+    "@octokit/rest": "^22.0.0"
   }
 }
